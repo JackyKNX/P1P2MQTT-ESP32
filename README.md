@@ -97,6 +97,35 @@ ESP32 is responsible for:
 - Platform configuration
 
 ---
+# Hardware Platform
+
+The reference hardware platform for this project is:
+
+**M5Stack PoESP32 Unit (U138)**
+
+Features:
+
+- ESP32 Dual-Core MCU
+- Native 100 Mbps Ethernet
+- IEEE 802.3af Power over Ethernet (PoE)
+- 16 MB Flash
+- Industrial DIN rail friendly installation
+- USB-C for development
+- Reliable wired communication
+- Excellent platform for 24/7 operation
+
+Unlike the original ESP8266 implementation, this platform provides sufficient processing power and memory for:
+
+- Advanced Web UI
+- Live UART terminal
+- OTA firmware updates
+- Home Assistant Discovery
+- OpenHAB integration
+- Future REST API
+- Future WebSocket support
+- Enhanced diagnostics and logging
+
+The project is initially developed and tested on the **M5Stack PoESP32 Unit (U138)**, but the architecture is designed to support additional ESP32-based hardware in the future.
 
 ## Clean Architecture
 
