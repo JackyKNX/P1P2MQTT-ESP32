@@ -109,8 +109,6 @@ Features:
 - Native 100 Mbps Ethernet
 - IEEE 802.3af Power over Ethernet (PoE)
 - 16 MB Flash
-- Industrial DIN rail friendly installation
-- USB-C for development
 - Reliable wired communication
 - Excellent platform for 24/7 operation
 
@@ -120,7 +118,6 @@ Unlike the original ESP8266 implementation, this platform provides sufficient pr
 - Live UART terminal
 - OTA firmware updates
 - Home Assistant Discovery
-- OpenHAB integration
 - Future REST API
 - Future WebSocket support
 - Enhanced diagnostics and logging
