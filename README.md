@@ -82,3 +82,6 @@ Architecture
         +-- Home Assistant
         +-- OpenHAB
 ________________________________________
+
+
+
